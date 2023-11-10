@@ -1,3 +1,8 @@
+# This BASH script aims:
+# - generate an SSH key that can be used, for example, as a connection identifier to use Github (clone of a repository, push of a commit, etc.)
+# - to carry out the local Git configuration (in particular so that your commits are associated with your Github account)
+#
+
 echo
 echo "Welcome this Git and Github config script"
 echo
