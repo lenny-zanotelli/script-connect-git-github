@@ -54,8 +54,8 @@ else
   echo " 4. Git Settings"
   echo
   git config --global user.name "$username"
-  git config --gobal user.email "$email"
-  git config --global core.editor nano
+  git config --global user.email "$email"
+  git config --global core.editor nvim
   git config --global color.ui true
   git config -l
 
